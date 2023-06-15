@@ -1,0 +1,61 @@
+body{
+    font-family: sans-serif;
+    background-color: gray;
+}
+a{
+    color:red
+}
+
+a:visited{
+    color: maroon;
+
+}
+a:hover{
+    color: white;
+
+}
+
+.boldme{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.unerlineme{
+    text-decoration: underline;
+}
+
+.bigfatletters{
+    font-size: 30px
+}
+li{
+    font-size: 10px;
+    font-weight:normal;
+    font-style: bold
+}
+.underline{
+    text-decoration: underline;
+}
+.homebackground{
+    background-image: url(../images/P$F\ background.jpeg);
+    background-position: top right;
+}
+
+.indexbackground{
+    background-color: gray;
+    background-size: 800px;
+    width: 400px;
+    height: 900px;
+    background-position: top left;
+}
+
+.box1{
+    border-width: 1px;
+    border-style:solid;
+
+}
+.box2{
+    padding:5px;
+}
+.box3{
+    margin: 50px;
+}
